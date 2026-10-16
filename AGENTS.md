@@ -214,3 +214,7 @@ git pull --rebase && git push
 - Resolve conflicts in YOUR files only
 - If conflict is in a file you didn't modify, abort and ask the user
 - NEVER force push
+
+## Shared FPC universal skill
+
+For substantive engineering, product or research tasks, consult `.agents/skills/fpc-universal/SKILL.md` when relevant. This general skill is subordinate to every repository-specific, nested, safety, architecture, verification and release instruction above.
